@@ -1,2 +1,2 @@
-# 3d-objects-with-lightning-opengl-c--
+# Computer graphics in OpenGL & C++
  
